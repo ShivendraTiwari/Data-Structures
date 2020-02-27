@@ -1,3 +1,6 @@
+
+//Implementaion of Stack Operations through LinkedList
+
 package com.shiv.LinkedList;
 
 class Link3 {
