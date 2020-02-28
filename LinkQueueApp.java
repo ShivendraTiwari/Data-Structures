@@ -1,3 +1,6 @@
+//It is showing NullPointerException so please resolve it.
+
+
 package com.shiv.LinkedList;
 
 class Link4 {
